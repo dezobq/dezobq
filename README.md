@@ -11,7 +11,7 @@
   <img align='center' alt='node js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align='center' alt='html5' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align='center' alt='css3' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
-  <img align="right" alt="Dezo-Pic" height="150" style="border-radius:50px;" src="./images/andre avatar 5.png">
+  <img align="right" alt="Dezo-Pic" height="150" style="border-radius:90px;" src="./andre avatar 5.png">
 </div>
   
   ##
