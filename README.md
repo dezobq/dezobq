@@ -23,4 +23,19 @@
 <a href = "mailto:dezobq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andré-bastos-de-queiroz-47852377" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+<br>
 
+| ![Dezo's github stats](https://github-readme-stats.vercel.app/api?username=dezobq&show_icons=true&theme=tokyonight) | ![Dezo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dezobq&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dezobq&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+
+<br>
+
+
+-----
+Credits: [DezoDev](https://github.com/dezobq)
+
+Last Edited on: 2023-02-05
