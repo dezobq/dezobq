@@ -27,9 +27,7 @@
 
 | ![Dezo's github stats](https://github-readme-stats.vercel.app/api?username=dezobq&show_icons=true&theme=tokyonight) | ![Dezo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dezobq&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=dezobq&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 
 <br>
@@ -38,4 +36,4 @@
 -----
 Credits: [DezoDev](https://github.com/dezobq)
 
-Last Edited on: 2023-02-05
+Last Edited on: 2023-02-06
