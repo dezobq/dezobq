@@ -1,4 +1,4 @@
-### OHello world!!!! I'm Andre "Dezo" Queiroz
+### Hello world!!!! I'm Andre "Dezo" Queiroz
 
 ##
 
