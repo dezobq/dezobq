@@ -1,4 +1,12 @@
-### Hello world!!!! I'm Andre "Dezo" Queiroz
+### Hello world!!!!  I'm Andre "Dezo" Queiroz
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+- 🤔 &nbsp; Investigating innovative technologies, creating solutions, and implementing shortcuts.
+- 🎓 &nbsp; Studying Web Development and Internet Applications at St. Clair College, Canada.
+- 💼 &nbsp; I’m currently working on Full Stack Development projects.
+- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles. 
 
 ##
 
@@ -23,17 +31,17 @@
 <a href = "mailto:dezobq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andré-bastos-de-queiroz-47852377" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<br>
+<br/>
 
-| ![Dezo's github stats](https://github-readme-stats.vercel.app/api?username=dezobq&show_icons=true&theme=tokyonight) | ![Dezo GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dezobq&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<a href="https://github.com/dezobq">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dezobq&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=buefy&layout=compact" />
+</a>
 
-
-<br>
+<br/>
 
 
 -----
 Credits: [DezoDev](https://github.com/dezobq)
 
-Last Edited on: 2023-02-06
+Last Edited on: 2023-02-07
