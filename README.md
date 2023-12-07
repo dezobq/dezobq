@@ -2,11 +2,19 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Investigating innovative technologies, creating solutions, and implementing shortcuts.
-- 🎓 &nbsp; Studying Web Development and Internet Applications at St. Clair College, Canada.
-- 💼 &nbsp; I’m currently working on Full Stack Development projects.
-- 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-- ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles. 
+- 🎓 I graduated in Web Development and Internet Applications from St. Clair College in Canada, and I currently work remotely as a full stack developer. My passion for exploring innovative technologies drives me to craft solutions and implement efficient strategies in my projects.
+
+- 💼 With experience in full stack development projects, I'm constantly striving to enhance my skills, particularly in backend architectures and frontend development.
+
+- 🌱 Continuously learning and deepening my knowledge in backend architectures and frontend development to create robust and innovative solutions.
+
+- ✍️ Beyond my professional interests, I devote my time to Competitive Programming and gaming as hobbies and side hustles.
+
+Let's connect and collaborate on innovative projects!
+
+---
+
+Feel free to adjust and personalize it to fit your style!
 
 ##
 
