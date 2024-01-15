@@ -1,5 +1,9 @@
+
+<br />
+
+
 <div align="center" style="display: flex"> 
-    <img align="right" alt="Andre Queiroz's Avatar" height="350" src="./person5.png">
+    <img align="right" alt="Andre Queiroz's Avatar" width="33%" src="./person5.png">
   <h1>Hi! I'm Andre Queiroz </h1>
   <h2>Web Developer</h2>
 
