@@ -1,5 +1,7 @@
 ### Hello world!!!!  I'm Andre "Dezo" Queiroz
 
+Visit my portfolio at a href="<a href="[https://github.com/dezobq](https://andrequeiroz.netlify.app/)"> here </a>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 I graduated in Web Development and Internet Applications from St. Clair College in Canada, and I currently work remotely as a full stack developer. My passion for exploring innovative technologies drives me to craft solutions and implement efficient strategies in my projects.
