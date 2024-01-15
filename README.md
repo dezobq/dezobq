@@ -1,13 +1,13 @@
 <div align="center" style="display: flex"> 
     <img align="right" alt="Dezo-Pic" height="350" src="./person5.png">
-  <h1>I'm Andre Queiroz </h1>
+  <h1>Hi! I'm Andre Queiroz </h1>
   <h2>Web Developer</h2>
 
 </div>
 
 Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>.
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
 - 🎓 I graduated in Web Development and Internet Applications from St. Clair College in Canada, and I currently work remotely as a full stack developer. My passion for exploring innovative technologies drives me to craft solutions and implement efficient strategies in my projects.
 
@@ -60,4 +60,4 @@ Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>
 -----
 Credits: [DezoDev](https://github.com/dezobq)
 
-Last Edited on: 2023-12-09
+Last Edited on: 2024-01-14
