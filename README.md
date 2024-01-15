@@ -1,38 +1,22 @@
-### Hello world!!!!  I'm Andre "Dezo" Queiroz
+<div align="center"> 
+  <h1>I'm Andre Queiroz </h1>
+  <h2>Web Developer</h2>
+</div>
 
 Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+### 👨🏻‍💻 &nbsp;About Me
 
 - 🎓 I graduated in Web Development and Internet Applications from St. Clair College in Canada, and I currently work remotely as a full stack developer. My passion for exploring innovative technologies drives me to craft solutions and implement efficient strategies in my projects.
 
-- 💼 With experience in full stack development projects, I'm constantly striving to enhance my skills, particularly in backend architectures and frontend development.
+- 💼 I'm constantly striving to enhance my skills, particularly in backend architectures and frontend development.
 
 - 🌱 Continuously learning and deepening my knowledge in backend architectures and frontend development to create robust and innovative solutions.
 
 - ✍️ Beyond my professional interests, I devote my time to Competitive Programming and gaming as hobbies and side hustles.
-
-Let's connect and collaborate on innovative projects!
-
----
-
-Feel free to adjust and personalize it to fit your style!
-
-##
-
-<div style="display: inline_block"><br>
-  <img align='center' alt='javascript' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align='center' alt='typescript' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align='center' alt='mongodb' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align='center' alt='react js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align='center' alt='laravel' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  <img align='center' alt='node js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align='center' alt='html5' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img align='center' alt='css3' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />  
-  <img align="right" alt="Dezo-Pic" height="150" style="border-radius:90px;" src="./andre avatar 5.png">
-</div>
   
-  ##
+---
+ ## Get in touch :coffee:
  
 <div style="display: inline_block"> 
     <a href="https://instagram.com/dezoqueiroz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -40,6 +24,27 @@ Feel free to adjust and personalize it to fit your style!
 <a href = "mailto:dezobq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/andré-bastos-de-queiroz-47852377" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+---
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dezobq/count.svg" />
+</p>
+
+---
+
+<div  style="background:withe display: inline_block"><br>
+  <img align='center' alt='javascript' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align='center' alt='next js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align='center' alt='typescript' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align='center' alt='mongodb' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align='center' alt='react js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align='center' alt='laravel' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align='center' alt='node js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="right" alt="Dezo-Pic" height="150" style="border-radius:90px;" src="./andre avatar 5.png">
+</div>
+
 <br/>
 
 <a href="https://github.com/dezobq">
