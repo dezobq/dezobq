@@ -1,5 +1,5 @@
 <div align="center" style="display: flex"> 
-    <img align="right" alt="Dezo-Pic" height="150" style="border-radius:90px;" src="./andre avatar 5.png">
+    <img align="right" alt="Dezo-Pic" height="350" src="./person5.png">
   <h1>I'm Andre Queiroz </h1>
   <h2>Web Developer</h2>
 
