@@ -1,6 +1,6 @@
 ### Hello world!!!!  I'm Andre "Dezo" Queiroz
 
-Visit my portfolio at <a href="https://andrequeiroz.netlify.app"> here </a>
+Visit my <a href="https://andrequeiroz.netlify.app"> portfolio </a>.
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
