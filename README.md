@@ -1,6 +1,8 @@
-<div align="center"> 
+<div align="center" style="display: flex"> 
+    <img align="right" alt="Dezo-Pic" height="150" style="border-radius:90px;" src="./andre avatar 5.png">
   <h1>I'm Andre Queiroz </h1>
   <h2>Web Developer</h2>
+
 </div>
 
 Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>.
@@ -42,7 +44,7 @@ Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>
   <img align='center' alt='react js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align='center' alt='laravel' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align='center' alt='node js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="right" alt="Dezo-Pic" height="150" style="border-radius:90px;" src="./andre avatar 5.png">
+  
 </div>
 
 <br/>
