@@ -3,11 +3,8 @@
 
 
 <div align="center" style="display: flex" width="80%"> 
-    <img align="right" alt="Andre Queiroz's Avatar" width="33%" src="./person5.png">
-    <div width=""66%>
   <h1>Hi! I'm Andre Queiroz </h1>
   <h2>Web Developer</h2>
-</div>
 </div>
 
 Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>.
