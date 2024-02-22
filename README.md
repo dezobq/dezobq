@@ -9,7 +9,7 @@
 
 Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>.
 
-### 👨🏻‍💻 About Me
+### 👨🏻‍💻 About Me :
 
 - 🎓 I graduated in Web Development and Internet Applications from St. Clair College in Canada, and I currently work remotely as a full stack developer. My passion for exploring innovative technologies drives me to craft solutions and implement efficient strategies in my projects.
 
