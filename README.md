@@ -1,64 +1,93 @@
-
-<br />
-
-
-<div align="center" style="display: flex" width="80%"> 
-  <h1>Hi! I'm Andre Queiroz </h1>
-  <h2>Web Developer</h2>
+<div align="center">
+  <h1>Andre Queiroz (Dezo)</h1>
+  <h3>Enterprise Developer | Context Engineering Specialist</h3>
+  <p><em>Building forensic-grade compliance tools solo using AI-powered development methodology</em></p>
 </div>
 
-Visit my <a style="none" href="https://andrequeiroz.netlify.app"> portfolio </a>.
-
-### 👨🏻‍💻 About Me :
-
-- 🎓 I graduated in Web Development and Internet Applications from St. Clair College in Canada, and I currently work remotely as a full stack developer. My passion for exploring innovative technologies drives me to craft solutions and implement efficient strategies in my projects.
-
-- 💼 I'm constantly striving to enhance my skills, particularly in backend architectures and frontend development.
-
-- 🌱 Continuously learning and deepening my knowledge in backend architectures and frontend development to create robust and innovative solutions.
-
-- ✍️ Beyond my professional interests, I devote my time to Competitive Programming and gaming as hobbies and side hustles.
-  
----
- ## Get in touch :coffee:
- 
-<div style="display: inline_block"> 
-    <a href="https://instagram.com/dezoqueiroz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="discordapp.com/users/DezoBQ2#1541" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:dezobq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/andré-bastos-de-queiroz-47852377" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dezobq/count.svg" />
+<p align="center">
+  <a href="https://dezodev.com">Portfolio</a> •
+  <a href="https://dezodev.com/blog">Blog</a> •
+  <a href="https://twitter.com/dezobq">Twitter</a>
 </p>
 
 ---
 
-<div  style="background:withe display: inline_block"><br>
-  <img align='center' alt='javascript' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align='center' alt='next js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
-  <img align='center' alt='typescript' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align='center' alt='mongodb' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align='center' alt='react js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align='center' alt='node js' width='80px' height='auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  
+### 🎯 What I Do
+
+I build **enterprise-grade compliance and testing tools** that typically require entire teams—as a solo developer using **context engineering methodology**.
+
+**Currently Shipping:**
+
+| Project | Status | Description |
+|---------|--------|-------------|
+| [DAuditX](https://github.com/dezobq/dauditx) | Beta | Forensic testing toolkit with 16+ quality gates (SOC2/HIPAA/GDPR ready) |
+| [Strathon](https://github.com/dezobq/strathon) | Alpha | Evidence-as-a-Service with HIPAA compliance layer |
+| [Orion AI Kit](https://github.com/dezobq/orion-ai-kit) | Live | Hybrid LLM orchestration framework (Claude + GPT-5) |
+
+---
+
+### 💡 Context Engineering
+
+My approach combines specialized AI agents with systematic development to achieve:
+
+- **6 weeks** vs 6 months typical team timeline
+- **16+ automated quality gates** per project
+- **95+ Lighthouse scores** with zero accessibility violations
+- **SOC2/HIPAA/GDPR** compliance built-in
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
 </div>
 
-<br/>
+<div align="center" style="margin-top: 10px">
+  <img src="https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP_Servers-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
 
-<a href="https://github.com/dezobq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dezobq&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=buefy&layout=compact" />
-</a>
+---
 
-<br/>
+### 📊 GitHub Stats
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dezobq&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=github_dark&layout=compact&hide_border=true" />
+</div>
 
------
-Credits: [DezoDev](https://github.com/dezobq)
+---
 
-Last Edited on: 2024-01-14
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/dezobq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/dezobq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://dev.to/dezobq"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+  <a href="mailto:contact@dezodev.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<p align="center">
+  <br/>
+  <strong>Seeking partners and investors for enterprise compliance tools.</strong>
+  <br/>
+  <a href="https://dezodev.com/contact">Let's talk →</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dezobq&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <sub>📍 Windsor, Ontario, Canada</sub>
+</p>
