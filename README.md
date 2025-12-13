@@ -62,8 +62,8 @@ My approach combines specialized AI agents with systematic development to achiev
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dezobq&theme=github_dark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dezobq&theme=github_dark&layout=compact&hide_border=true" />
+  <img height="160em" src="https://dezobq-stats.vercel.app/api?username=dezobq&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://dezobq-stats.vercel.app/api/top-langs/?username=dezobq&theme=github_dark&layout=compact&hide_border=true" />
 </div>
 
 ---
