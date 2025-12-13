@@ -63,7 +63,10 @@ My approach combines specialized AI agents with systematic development to achiev
 
 <div align="center">
   <img height="160em" src="https://dezobq-stats.vercel.app/api?username=dezobq&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://dezobq-stats.vercel.app/api/top-langs/?username=dezobq&theme=github_dark&layout=compact&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dezobq/dezobq/main/github-metrics.svg" alt="Languages" />
 </div>
 
 ---
