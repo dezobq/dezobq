@@ -61,43 +61,18 @@ SOC2/HIPAA/GDPR<br>built-in from day 1
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Languages
 
 <div align="center">
-
-**Core Technologies**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Testing & Quality**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-
-**AI & Automation**
-
-![Claude](https://img.shields.io/badge/Claude_API-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP_Servers-4A90E2?style=for-the-badge)
-
+  <img src="https://raw.githubusercontent.com/dezobq/dezobq/main/github-metrics.svg" alt="Languages" />
 </div>
 
 <br>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://dezobq-stats.vercel.app/api?username=dezobq&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/dezobq/dezobq/main/github-metrics.svg" alt="Language Metrics" width="100%" />
+  <img src="https://dezobq-stats.vercel.app/api?username=dezobq&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <br>
