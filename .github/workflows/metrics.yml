@@ -37,3 +37,17 @@ jobs:
           commits_authoring: dezobq, dezobq@users.noreply.github.com
 
           config_timezone: America/Toronto
+
+      # Card de Projetos (repos pinados + atividade recente)
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-projects.svg
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: push, pr, release, ref/create
+          config_timezone: America/Toronto
