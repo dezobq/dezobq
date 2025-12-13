@@ -14,8 +14,9 @@ jobs:
     steps:
       - name: Install dependencies
         run: |
+          sudo apt-get remove -y containerd || true
           sudo apt-get update
-          sudo apt-get install -y docker.io jq
+          sudo apt-get install -y jq
 
       - uses: lowlighter/metrics@latest
         with:
