@@ -23,6 +23,8 @@ I build **enterprise-grade compliance and testing tools** that typically require
 | [DAuditX](https://github.com/dezobq/dauditx) | Beta | Forensic testing toolkit with 16+ quality gates (SOC2/HIPAA/GDPR ready) |
 | [Strathon](https://github.com/dezobq/strathon) | Alpha | Evidence-as-a-Service with HIPAA compliance layer |
 | [Orion AI Kit](https://github.com/dezobq/orion-ai-kit) | Live | Hybrid LLM orchestration framework (Claude + GPT-5) |
+| [MEDRIX](https://github.com/dezobq/medrix) | Alpha | Real-time sales coaching HUD with STT, BANT detection, and playbook FSM |
+| [Viral Shorts AI](https://github.com/dezobq/viral-shorts-ai) | Alpha | AI-powered platform for creating viral short-form videos (TikTok, YouTube, Reels) |
 
 ---
 
