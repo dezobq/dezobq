@@ -23,8 +23,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
 
-          base: ""
+          # Base configuration (basic info, stats, repositories)
+          base: header, activity, community, repositories
 
+          # Languages configuration
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_sections: most-used

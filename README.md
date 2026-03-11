@@ -61,18 +61,10 @@ SOC2/HIPAA/GDPR<br>built-in from day 1
 
 <br>
 
-## 🛠️ Tech Stack & Languages
+## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dezobq/dezobq/main/github-metrics.svg" alt="Languages" />
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://dezobq-stats.vercel.app/api?username=dezobq&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/dezobq/dezobq/main/github-metrics.svg" alt="GitHub Metrics" />
 </div>
 
 <br>
